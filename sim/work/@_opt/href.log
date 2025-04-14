@@ -1,0 +1,12 @@
+BEGIN 3:router_if:fast__2:work
+    data_in :  1:top:fast:work
+    error :  1:top:fast:work
+    busy :  1:top:fast:work
+    resetn :  1:top:fast:work
+    pkt_valid :  1:top:fast:work
+END 
+BEGIN 3:router_if:fast__3:work
+    vld_out :  1:top:fast:work
+    data_out :  1:top:fast:work
+    read_enb :  1:top:fast:work
+END 
